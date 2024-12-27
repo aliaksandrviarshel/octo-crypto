@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OctoCrypto", "OctoCrypto\OctoCrypto.csproj", "{969444D5-C3A7-44A3-8F26-1C363D20E886}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OctoCrypto.Tests.Unit", "OctoCrypto.Tests.Unit\OctoCrypto.Tests.Unit.csproj", "{1C1FCB86-5FFD-4DC7-9F3A-6714369789A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OctoCrypto.Tests.Integration", "OctoCrypto.Tests.Integration\OctoCrypto.Tests.Integration.csproj", "{12CFFCDE-33E8-44E7-8184-1F4D2CA3B944}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{969444D5-C3A7-44A3-8F26-1C363D20E886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{969444D5-C3A7-44A3-8F26-1C363D20E886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{969444D5-C3A7-44A3-8F26-1C363D20E886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{969444D5-C3A7-44A3-8F26-1C363D20E886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C1FCB86-5FFD-4DC7-9F3A-6714369789A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C1FCB86-5FFD-4DC7-9F3A-6714369789A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C1FCB86-5FFD-4DC7-9F3A-6714369789A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C1FCB86-5FFD-4DC7-9F3A-6714369789A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12CFFCDE-33E8-44E7-8184-1F4D2CA3B944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12CFFCDE-33E8-44E7-8184-1F4D2CA3B944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12CFFCDE-33E8-44E7-8184-1F4D2CA3B944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12CFFCDE-33E8-44E7-8184-1F4D2CA3B944}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
