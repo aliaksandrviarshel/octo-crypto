@@ -50,7 +50,6 @@ The **OctoCrypto API** is an ASP.NET Core Web API designed to provide comprehens
 ### **SymbolSummaryJobTests**
 
 1. **Symbol_summaries_are_saved_in_cache**
-2. **Cached_symbol_summaries_are_ordered_by_tickers_count**  
 
 ### **SymbolSummaryServiceTests**
 
