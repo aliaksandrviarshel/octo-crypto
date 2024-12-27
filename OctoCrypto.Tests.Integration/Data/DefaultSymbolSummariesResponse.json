@@ -1,0 +1,262 @@
+[
+  {
+    "symbol": "1INCHUSDT",
+    "priceTickers": [
+      {
+        "exchange": 0,
+        "bestBid": 0.3765,
+        "bestAsk": 0.3767,
+        "isBestBid": null,
+        "isBestAsk": true
+      },
+      {
+        "exchange": 1,
+        "bestBid": 0.3776,
+        "bestAsk": 0.3778,
+        "isBestBid": null,
+        "isBestAsk": null
+      },
+      {
+        "exchange": 2,
+        "bestBid": 0.3780,
+        "bestAsk": 0.3782,
+        "isBestBid": true,
+        "isBestAsk": null
+      }
+    ]
+  },
+  {
+    "symbol": "A8USDT",
+    "priceTickers": [
+      {
+        "exchange": 0,
+        "bestBid": 0.3887,
+        "bestAsk": 0.3889,
+        "isBestBid": null,
+        "isBestAsk": true
+      },
+      {
+        "exchange": 1,
+        "bestBid": 0.39037,
+        "bestAsk": 0.39114,
+        "isBestBid": true,
+        "isBestAsk": null
+      },
+      {
+        "exchange": 2,
+        "bestBid": 0.38932,
+        "bestAsk": 0.39018,
+        "isBestBid": null,
+        "isBestAsk": null
+      }
+    ]
+  },
+  {
+    "symbol": "AAVEUSDT",
+    "priceTickers": [
+      {
+        "exchange": 0,
+        "bestBid": 304.22,
+        "bestAsk": 304.26,
+        "isBestBid": null,
+        "isBestAsk": true
+      },
+      {
+        "exchange": 1,
+        "bestBid": 305.67,
+        "bestAsk": 305.83,
+        "isBestBid": true,
+        "isBestAsk": null
+      },
+      {
+        "exchange": 2,
+        "bestBid": 304.46,
+        "bestAsk": 304.47,
+        "isBestBid": null,
+        "isBestAsk": null
+      }
+    ]
+  },
+  {
+    "symbol": "ACEUSDT",
+    "priceTickers": [
+      {
+        "exchange": 0,
+        "bestBid": 2.059,
+        "bestAsk": 2.061,
+        "isBestBid": null,
+        "isBestAsk": true
+      },
+      {
+        "exchange": 1,
+        "bestBid": 2.063,
+        "bestAsk": 2.068,
+        "isBestBid": null,
+        "isBestAsk": null
+      },
+      {
+        "exchange": 2,
+        "bestBid": 2.066,
+        "bestAsk": 2.068,
+        "isBestBid": true,
+        "isBestAsk": null
+      }
+    ]
+  },
+  {
+    "symbol": "ACHUSDT",
+    "priceTickers": [
+      {
+        "exchange": 0,
+        "bestBid": 0.02292,
+        "bestAsk": 0.02294,
+        "isBestBid": null,
+        "isBestAsk": true
+      },
+      {
+        "exchange": 1,
+        "bestBid": 0.02297,
+        "bestAsk": 0.02299,
+        "isBestBid": null,
+        "isBestAsk": null
+      },
+      {
+        "exchange": 2,
+        "bestBid": 0.02300,
+        "bestAsk": 0.02301,
+        "isBestBid": true,
+        "isBestAsk": null
+      }
+    ]
+  },
+  {
+    "symbol": "ACTUSDT",
+    "priceTickers": [
+      {
+        "exchange": 0,
+        "bestBid": 0.33118,
+        "bestAsk": 0.33125,
+        "isBestBid": null,
+        "isBestAsk": null
+      },
+      {
+        "exchange": 1,
+        "bestBid": 0.33282,
+        "bestAsk": 0.33302,
+        "isBestBid": true,
+        "isBestAsk": null
+      },
+      {
+        "exchange": 2,
+        "bestBid": 0.3301,
+        "bestAsk": 0.3302,
+        "isBestBid": null,
+        "isBestAsk": true
+      }
+    ]
+  },
+  {
+    "symbol": "ADAUSDT",
+    "priceTickers": [
+      {
+        "exchange": 0,
+        "bestBid": 0.88378,
+        "bestAsk": 0.88389,
+        "isBestBid": null,
+        "isBestAsk": true
+      },
+      {
+        "exchange": 1,
+        "bestBid": 0.8863,
+        "bestAsk": 0.8864,
+        "isBestBid": true,
+        "isBestAsk": null
+      },
+      {
+        "exchange": 2,
+        "bestBid": 0.8861,
+        "bestAsk": 0.8862,
+        "isBestBid": null,
+        "isBestAsk": null
+      }
+    ]
+  },
+  {
+    "symbol": "AERGOUSDT",
+    "priceTickers": [
+      {
+        "exchange": 0,
+        "bestBid": 0.1328,
+        "bestAsk": 0.1330,
+        "isBestBid": null,
+        "isBestAsk": true
+      },
+      {
+        "exchange": 1,
+        "bestBid": 0.13336,
+        "bestAsk": 0.1336,
+        "isBestBid": null,
+        "isBestAsk": null
+      },
+      {
+        "exchange": 2,
+        "bestBid": 0.13363,
+        "bestAsk": 0.13388,
+        "isBestBid": true,
+        "isBestAsk": null
+      }
+    ]
+  },
+  {
+    "symbol": "AEROUSDT",
+    "priceTickers": [
+      {
+        "exchange": 0,
+        "bestBid": 1.4826,
+        "bestAsk": 1.4828,
+        "isBestBid": null,
+        "isBestAsk": true
+      },
+      {
+        "exchange": 1,
+        "bestBid": 1.4861,
+        "bestAsk": 1.487,
+        "isBestBid": true,
+        "isBestAsk": null
+      },
+      {
+        "exchange": 2,
+        "bestBid": 1.480,
+        "bestAsk": 1.483,
+        "isBestBid": null,
+        "isBestAsk": null
+      }
+    ]
+  },
+  {
+    "symbol": "AEVOUSDT",
+    "priceTickers": [
+      {
+        "exchange": 0,
+        "bestBid": 0.3516,
+        "bestAsk": 0.3518,
+        "isBestBid": null,
+        "isBestAsk": true
+      },
+      {
+        "exchange": 1,
+        "bestBid": 0.3528,
+        "bestAsk": 0.3531,
+        "isBestBid": true,
+        "isBestAsk": null
+      },
+      {
+        "exchange": 2,
+        "bestBid": 0.3521,
+        "bestAsk": 0.3527,
+        "isBestBid": null,
+        "isBestAsk": null
+      }
+    ]
+  }
+]
