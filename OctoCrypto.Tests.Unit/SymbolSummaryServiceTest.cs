@@ -52,7 +52,7 @@ public class SymbolSummaryServiceTest
     [Theory]
     [InlineData(20, 1, 10)]
     [InlineData(20, 2, 10)]
-    public async Task Ten_Summaries_are_retrieved_when_page_index_is_not_provided(
+    public async Task Ten_Summaries_are_retrieved_when_page_size_is_not_provided(
         int allSummaries,
         int pageIndex,
         int expectedCount)
