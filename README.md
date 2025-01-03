@@ -42,11 +42,6 @@ The **OctoCrypto API** is an ASP.NET Core Web API designed to provide comprehens
 
 ## Unit Tests
 
-### **SymbolSummaryControllerTests**
-
-1. **First_summaries_page_retrieved_when_summary_job_has_worked_out**  
-2. **First_summaries_page_retrieved_when_summary_job_has_worked_out_with_external_api_errors**  
-
 ### **SymbolSummaryJobTests**
 
 1. **Symbol_summaries_are_saved_in_cache**
@@ -56,3 +51,10 @@ The **OctoCrypto API** is an ASP.NET Core Web API designed to provide comprehens
 1. **Specified_page_is_retrieved**
 2. **First_page_is_retrieved_when_page_index_is_not_provided**
 3. **Ten_summaries_are_retrieved_when_page_index_is_not_provided**
+
+## Integration Tests
+
+### **SymbolSummaryControllerTests**
+
+1. **First_summaries_page_retrieved_when_summary_job_has_worked_out**  
+2. **First_summaries_page_retrieved_when_summary_job_has_worked_out_with_external_api_errors**  
