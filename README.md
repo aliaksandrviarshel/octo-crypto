@@ -50,7 +50,7 @@ The **OctoCrypto API** is an ASP.NET Core Web API designed to provide comprehens
 
 1. **Specified_page_is_retrieved**
 2. **First_page_is_retrieved_when_page_index_is_not_provided**
-3. **Ten_summaries_are_retrieved_when_page_index_is_not_provided**
+3. **Ten_summaries_are_retrieved_when_page_size_is_not_provided**
 
 ## Integration Tests
 
